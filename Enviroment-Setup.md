@@ -73,7 +73,8 @@ brew install git
 
 - [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview)
 - [GitHub Education](https://william8510.pixnet.net/blog/post/576720564)
-
+- [Google Gemini Education](https://gemini.google/tw/students/?hl=zh-TW)
+- [Google Antigravity](https://gemini.google/tw/students/?hl=zh-TW)
 
 
 
